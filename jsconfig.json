@@ -23,7 +23,8 @@
             "csurf",
             "connect-flash",
             //"nodemailer",
-            "express-validator"
+            "express-validator",
+            "multer"
         ]
     }
 }
