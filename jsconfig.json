@@ -24,7 +24,8 @@
             "connect-flash",
             //"nodemailer",
             "express-validator",
-            "multer"
+            "multer",
+            "pdfkit"
         ]
     }
 }
